@@ -3,7 +3,7 @@ Project for the course on secure programming in FMI Sofia
 
 ## Resources 
 
-ONGL: 
+OGNL: 
 https://commons.apache.org/proper/commons-ognl/index.html
 https://commons.apache.org/proper/commons-ognl/language-guide.html
 
