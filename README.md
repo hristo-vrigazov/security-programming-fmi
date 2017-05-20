@@ -15,6 +15,6 @@ Github issue: https://github.com/rapid7/metasploit-framework/issues/8064
 
 CVE statistics for Apache Struts: https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-6117/Apache-Struts.html
 
-Exaple project: https://github.com/jrrdev/cve-2017-5638
+Exaple project: [example](example-app)
 
 Example stack trace: [stacktrace](stacktrace.log)
